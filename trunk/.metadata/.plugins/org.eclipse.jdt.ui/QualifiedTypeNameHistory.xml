@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.google.appengine.api.users.UserServiceFactory"/>
+<fullyQualifiedTypeName name="com.google.apphosting.api.UserServicePb.UserService"/>
+<fullyQualifiedTypeName name="com.google.appengine.api.users.User"/>
+<fullyQualifiedTypeName name="com.google.appengine.api.users.UserService"/>
+<fullyQualifiedTypeName name="Date"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="guestbook.Greeting"/>
+<fullyQualifiedTypeName name="guestbook.PMF"/>
+<fullyQualifiedTypeName name="java.awt.Dialog"/>
+<fullyQualifiedTypeName name="java.awt.event.ActionListener"/>
+<fullyQualifiedTypeName name="java.awt.Frame"/>
+<fullyQualifiedTypeName name="org.apache.tools.ant.taskdefs.Javadoc.Html"/>
+<fullyQualifiedTypeName name="javax.swing.text.html.HTML"/>
+</qualifiedTypeNameHistroy>
